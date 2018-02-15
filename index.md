@@ -4,7 +4,7 @@ I am a Graduate Student at UNC Charlotte working at TeCSAR Lab
 
 ### Biography
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Check just what is right!
 
 ```markdown
 Syntax highlighted code block
@@ -13,11 +13,11 @@ Syntax highlighted code block
 ## Sadegh N. Gooshki  
 ### Projects
 
-- Bulleted
+- Any number anyany
 - Any number anyany
 
-1. Numbered
-2. List
+1. Any number anyany
+2. Any number anyany
 
 **Bold** and _Italic_ and `Code` text
 
